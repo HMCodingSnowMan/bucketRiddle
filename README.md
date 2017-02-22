@@ -1,5 +1,6 @@
 # bucketRiddle
 -Hans Marasigan Feb 2017
+Using Java and eclipse Neon 4.2
 
 Solving the bucket Riddle
 
