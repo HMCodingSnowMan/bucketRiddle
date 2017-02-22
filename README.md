@@ -14,5 +14,20 @@ has a check for repeating numbers with the buckets in 2 ways
   having the difference = to the smaller number
 responds to if buckets are even but they want an odd
 
-Thats it.
+Running instructions:
+commandline
+1)you have to download the files first
+2)you have to compile it first.
+	
+javac *.java
 
+3)Then you have to run 
+java BucketMain
+
+4)enjoy the app
+
+Other option is using the jar 
+It's also included so
+
+from commandline
+java -jar HMarasiganBucket.jar
