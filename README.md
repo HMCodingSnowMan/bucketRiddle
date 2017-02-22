@@ -15,7 +15,7 @@ Inf loop checks
 
 *has a check for repeating numbers with the buckets in 2 ways 
 
-1)  being a multiple 
+1)  being a multiple of the difference of the 2 given buckets
 
 2)  having the difference = to the smaller number 
 
