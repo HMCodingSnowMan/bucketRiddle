@@ -9,17 +9,17 @@ Checks user input to make sure it stays within the required input
 
 Inf loop checks
 
-responds to negative numbers 
+*responds to negative numbers 
 
-responds to strings instead of numbers
+*responds to strings instead of numbers
 
-has a check for repeating numbers with the buckets in 2 ways 
+*has a check for repeating numbers with the buckets in 2 ways 
 
 1)  being a multiple 
 
 2)  having the difference = to the smaller number 
 
-responds to if buckets are even but they want an odd 
+*responds to if buckets are even but they want an odd amount
 
 Running instructions:
 commandline
